@@ -1,5 +1,7 @@
 # agent-tasks
 
+![CI](https://github.com/gangaramani-nikhil/agent-tasks/actions/workflows/ci.yml/badge.svg)
+
 A minimal tool-using agent runtime with an emphasis on debuggability.
 
 ## Problem
